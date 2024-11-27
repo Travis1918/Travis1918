@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Travis1918
 - 🌱 I’m currently learning Azure architecture and threat modeling.
-- 📫 How to reach me: Travis1918@gmail.com
+- 📫 How to reach me: Travis1918@gmail.com / www.linkedin.com/in/travisdavis-sudo
 - ⚡ Fun fact: I once won a jazz award for playing drums and have played music in front of thousands of people.
 
 <!---
