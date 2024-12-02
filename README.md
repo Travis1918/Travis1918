@@ -66,6 +66,10 @@ I am eager to transition into this field from my background in automotive mechan
 </div>
 
 ###  (&#x1F539;): Apply Filters to SQL Queries
+&#x1F4D8; You can view the document [here](https://docs.google.com/document/d/1I9ikRcddup3UYR9Wuc8ZwqWQk8y-wbhpiaReJqfmcYg/edit?usp=sharing&resourcekey=0-x0dUjOhT2hwyAbX6sg4ohw)
+ 
+ </div>
+ 
 Description:
 Demonstrated proficiency in SQL filtering techniques by analyzing network login data and ensuring secure operations.
 
@@ -90,6 +94,10 @@ Skills Applied:
 </div>
 
 ###  (&#x1F539;): File Permissions in Linux: Security and Access Control
+&#x1F4D8; You can view the document [here](https://docs.google.com/document/d/1bYihe0MJ1uudTLvwzwxIm_04BRPPKyVCRyp4M0FQFjs/edit?usp=sharing)
+
+</div>
+
 Description:
 This project demonstrates how to manage file and directory permissions in Linux using BASH commands to ensure the principle of least privilege. It highlights key tasks involved in controlling access to sensitive files and directories.
 
@@ -116,6 +124,11 @@ Example Commands:
 </div>
 
 ###  (&#x1F539;): Automating IP Address Updates for Privileged Access Management
+&#x1F4D8; You can view the document [here](https://docs.google.com/document/d/1Xxhjdzh2LkFJhM5hnvXS4a0HDLkp5hF4_adTdy7mnz4/edit?usp=sharing)
+
+</div>
+
+Description:
 This Python-based algorithm automates the process of maintaining an allow-list of privileged IP addresses for secure access control in a healthcare setting. By comparing an allow-list and a remove-list, the algorithm efficiently removes unauthorized IPs and ensures that only valid IPs retain access to sensitive files.
 
 Key Features:
